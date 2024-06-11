@@ -1,0 +1,4 @@
+repository "GameLellis@eoLellis@cloud"
+  path "/"
+    br "/main"
+    co "/main"
